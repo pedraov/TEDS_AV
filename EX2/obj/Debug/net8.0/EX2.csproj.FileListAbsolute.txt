@@ -1,0 +1,14 @@
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\obj\Debug\net8.0\EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\obj\Debug\net8.0\EX2.AssemblyInfoInputs.cache
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\obj\Debug\net8.0\EX2.AssemblyInfo.cs
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\obj\Debug\net8.0\EX2.csproj.CoreCompileInputs.cache
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\bin\Debug\net8.0\EX2.exe
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\bin\Debug\net8.0\EX2.deps.json
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\bin\Debug\net8.0\EX2.runtimeconfig.json
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\bin\Debug\net8.0\EX2.dll
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\bin\Debug\net8.0\EX2.pdb
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\obj\Debug\net8.0\EX2.dll
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\obj\Debug\net8.0\refint\EX2.dll
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\obj\Debug\net8.0\EX2.pdb
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\obj\Debug\net8.0\EX2.genruntimeconfig.cache
+C:\Users\pedrao\Documents\Estudo\AulaC#\TEDS_AV\AV\EX2\obj\Debug\net8.0\ref\EX2.dll
